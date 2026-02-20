@@ -1,0 +1,27 @@
+2024-02-01 08:01:12 INFO  Démarrage de l'application
+2024-02-01 08:01:15 INFO  Connexion à la base de données réussie
+2024-02-01 08:03:22 INFO  Utilisateur 'alice' connecté
+2024-02-01 08:05:10 WARNING Temps de réponse élevé : 2.3s
+2024-02-01 08:07:45 ERROR Connexion base de données perdue
+2024-02-01 08:07:46 ERROR Tentative de reconnexion échouée
+2024-02-01 08:08:01 INFO  Reconnexion réussie
+2024-02-01 08:12:33 INFO  Utilisateur 'bob' connecté
+2024-02-01 08:15:00 WARNING Mémoire utilisée à 80%
+2024-02-01 08:17:22 ERROR Fichier de config introuvable
+2024-02-01 08:20:11 INFO  Sauvegarde automatique effectuée
+2024-02-01 08:23:45 WARNING Temps de réponse élevé : 3.1s
+2024-02-01 08:25:00 ERROR Connexion base de données perdue
+2024-02-01 08:25:03 ERROR Timeout requête SQL dépassé
+2024-02-01 08:26:10 INFO  Utilisateur 'charlie' connecté
+2024-02-01 08:30:00 WARNING Mémoire utilisée à 85%
+2024-02-01 08:33:12 ERROR Fichier de config introuvable
+2024-02-01 08:35:44 INFO  Sauvegarde automatique effectuée
+2024-02-01 08:40:21 WARNING Temps de réponse élevé : 4.2s
+2024-02-01 08:42:00 ERROR Connexion base de données perdue
+2024-02-01 08:45:10 INFO  Utilisateur 'alice' déconnecté
+2024-02-01 08:47:33 WARNING Mémoire utilisée à 90%
+2024-02-01 08:50:00 ERROR Timeout requête SQL dépassé
+2024-02-01 08:52:11 INFO  Redémarrage du service planifié
+2024-02-01 08:55:00 ERROR Fichier de config introuvable
+2024-02-01 09:00:00 INFO  Redémarrage effectué avec succès
+2024-02-01 09:01:00 INFO  Tous les services opérationnels
