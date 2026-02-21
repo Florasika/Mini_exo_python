@@ -1,0 +1,101 @@
+show_id,type,title,country,date_added,release_year,rating,duration,listed_in
+s1,Movie,The Dark Knight,United States,January 15 2020,2008,PG-13,152 min,Action
+s2,TV Show,Stranger Things,United States,July 15 2016,2016,TV-14,4 Seasons,Drama
+s3,Movie,Inception,United States,March 1 2021,2010,PG-13,148 min,Sci-Fi
+s4,TV Show,The Crown,United Kingdom,November 4 2016,2016,TV-MA,6 Seasons,Drama
+s5,Movie,Parasite,South Korea,June 1 2020,2019,R,132 min,Drama
+s6,TV Show,Money Heist,Spain,January 1 2018,2017,TV-MA,5 Seasons,Crime
+s7,Movie,The Irishman,United States,November 27 2019,2019,R,209 min,Crime
+s8,TV Show,Dark,Germany,December 1 2017,2017,TV-MA,3 Seasons,Sci-Fi
+s9,Movie,Roma,Mexico,December 14 2018,2018,R,135 min,Drama
+s10,TV Show,Narcos,United States,August 28 2015,2015,TV-MA,3 Seasons,Crime
+s11,Movie,Bird Box,United States,December 21 2018,2018,R,124 min,Thriller
+s12,TV Show,The Witcher,United States,December 20 2019,2019,TV-MA,3 Seasons,Fantasy
+s13,Movie,Okja,South Korea,June 28 2017,2017,TV-MA,120 min,Drama
+s14,TV Show,Ozark,United States,July 21 2017,2017,TV-MA,4 Seasons,Crime
+s15,Movie,Marriage Story,United States,November 6 2019,2019,R,137 min,Drama
+s16,TV Show,Squid Game,South Korea,September 17 2021,2021,TV-MA,1 Season,Thriller
+s17,Movie,The Trial of the Chicago 7,United States,October 16 2020,2020,R,129 min,Drama
+s18,TV Show,Bridgerton,United States,December 25 2020,2020,TV-MA,3 Seasons,Romance
+s19,Movie,Mank,United States,December 4 2020,2020,R,131 min,Drama
+s20,TV Show,Emily in Paris,United States,October 2 2020,2020,TV-MA,4 Seasons,Romance
+s21,Movie,The Old Guard,United States,July 10 2020,2020,R,125 min,Action
+s22,TV Show,Lupine,France,January 8 2021,2021,TV-MA,3 Seasons,Crime
+s23,Movie,Malcolm & Marie,United States,February 5 2021,2021,R,106 min,Drama
+s24,TV Show,The Umbrella Academy,United States,February 15 2019,2019,TV-14,3 Seasons,Sci-Fi
+s25,Movie,Army of the Dead,United States,May 21 2021,2021,R,148 min,Action
+s26,TV Show,Shadow and Bone,United States,April 23 2021,2021,TV-14,2 Seasons,Fantasy
+s27,Movie,Thunder Force,United States,April 9 2021,2021,PG-13,107 min,Comedy
+s28,TV Show,Virgin River,United States,December 6 2019,2019,TV-MA,5 Seasons,Romance
+s29,Movie,Extraction,United States,April 24 2020,2020,R,116 min,Action
+s30,TV Show,Ratched,United States,September 18 2020,2020,TV-MA,1 Season,Drama
+s31,Movie,The Platform,Spain,March 20 2020,2019,TV-MA,94 min,Sci-Fi
+s32,TV Show,Mindhunter,United States,October 13 2017,2017,TV-MA,2 Seasons,Crime
+s33,Movie,Always Be My Maybe,United States,May 31 2019,2019,PG-13,101 min,Comedy
+s34,TV Show,You,United States,September 9 2018,2018,TV-MA,4 Seasons,Thriller
+s35,Movie,I Care a Lot,United States,February 19 2021,2021,R,118 min,Thriller
+s36,TV Show,Cobra Kai,United States,August 28 2020,2018,TV-14,6 Seasons,Drama
+s37,Movie,The Half of It,United States,May 1 2020,2020,PG-13,104 min,Romance
+s38,TV Show,Never Have I Ever,United States,April 27 2020,2020,TV-14,4 Seasons,Comedy
+s39,Movie,The Guilty,United States,October 1 2021,2021,R,90 min,Thriller
+s40,TV Show,Fate The Winx Saga,United Kingdom,January 22 2021,2021,TV-MA,2 Seasons,Fantasy
+s41,Movie,No Time to Die,United Kingdom,October 8 2021,2021,PG-13,163 min,Action
+s42,TV Show,Outer Banks,United States,April 15 2020,2020,TV-MA,3 Seasons,Adventure
+s43,Movie,The Mitchells vs the Machines,United States,April 30 2021,2021,PG,114 min,Animation
+s44,TV Show,Locke & Key,United States,February 7 2020,2020,TV-14,3 Seasons,Fantasy
+s45,Movie,Luca,United States,June 18 2021,2021,PG,95 min,Animation
+s46,TV Show,The Queen's Gambit,United States,October 23 2020,2020,TV-MA,1 Season,Drama
+s47,Movie,Don't Look Up,United States,December 24 2021,2021,R,138 min,Comedy
+s48,TV Show,Haunting of Hill House,United States,October 12 2018,2018,TV-MA,2 Seasons,Horror
+s49,Movie,Fear Street Part 1,United States,July 2 2021,2021,R,107 min,Horror
+s50,TV Show,Formula 1 Drive to Survive,United Kingdom,March 8 2019,2019,TV-MA,5 Seasons,Documentary
+s51,Movie,Tick Tick Boom,United States,November 19 2021,2021,PG-13,115 min,Drama
+s52,TV Show,The Last Kingdom,United Kingdom,October 10 2015,2015,TV-MA,5 Seasons,Drama
+s53,Movie,Red Notice,United States,November 12 2021,2021,PG-13,118 min,Action
+s54,TV Show,Sabrina,United States,October 26 2018,2018,TV-14,4 Seasons,Fantasy
+s55,Movie,The Power of the Dog,New Zealand,November 17 2021,2021,R,126 min,Drama
+s56,TV Show,Ragnarok,Norway,January 31 2020,2020,TV-14,3 Seasons,Drama
+s57,Movie,Enola Holmes,United Kingdom,September 23 2020,2020,PG-13,123 min,Mystery
+s58,TV Show,Ginny and Georgia,United States,February 24 2021,2021,TV-MA,2 Seasons,Drama
+s59,Movie,The Kissing Booth,United States,May 11 2018,2018,TV-14,90 min,Romance
+s60,TV Show,Inventing Anna,United States,February 11 2022,2022,TV-MA,1 Season,Drama
+s61,Movie,Texas Chainsaw Massacre,United States,February 18 2022,2022,R,83 min,Horror
+s62,TV Show,Peaky Blinders,United Kingdom,September 30 2016,2013,TV-MA,6 Seasons,Crime
+s63,Movie,Oxygen,France,May 12 2021,2021,TV-MA,101 min,Sci-Fi
+s64,TV Show,All of Us Are Dead,South Korea,January 28 2022,2022,TV-MA,1 Season,Horror
+s65,Movie,The Woman in the Window,United States,May 14 2021,2021,R,100 min,Thriller
+s66,TV Show,Sweet Magnolias,United States,May 19 2020,2020,TV-PG,3 Seasons,Romance
+s67,Movie,Pieces of a Woman,United States,January 7 2021,2021,R,128 min,Drama
+s68,TV Show,Night Stalker,United States,January 13 2021,2021,TV-MA,1 Season,Documentary
+s69,Movie,Outside the Wire,United States,January 15 2021,2021,R,114 min,Action
+s70,TV Show,Altered Carbon,United States,February 2 2018,2018,TV-MA,2 Seasons,Sci-Fi
+s71,Movie,Shrek,United States,June 1 2020,2001,PG,90 min,Animation
+s72,TV Show,Anne with an E,Canada,March 19 2017,2017,TV-G,3 Seasons,Drama
+s73,Movie,Klaus,Spain,November 15 2019,2019,G,96 min,Animation
+s74,TV Show,Manifest,United States,June 15 2021,2018,TV-14,4 Seasons,Sci-Fi
+s75,Movie,Holidate,United States,October 28 2020,2020,TV-MA,104 min,Comedy
+s76,TV Show,The Baby-Sitters Club,United States,July 3 2020,2020,TV-G,2 Seasons,Comedy
+s77,Movie,The In Between,United States,February 11 2022,2022,TV-14,92 min,Romance
+s78,TV Show,Selling Sunset,United States,March 21 2019,2019,TV-MA,6 Seasons,Reality
+s79,Movie,Dumplin,United States,December 7 2018,2018,PG-13,110 min,Comedy
+s80,TV Show,Too Hot to Handle,United Kingdom,April 17 2020,2020,TV-MA,4 Seasons,Reality
+s81,Movie,The Dig,United Kingdom,January 29 2021,2021,PG-13,112 min,Drama
+s82,Movie,Jungle Cruise,United States,July 30 2021,2021,PG-13,127 min,Adventure
+s83,Movie,Spencer,United Kingdom,November 5 2021,2021,PG-13,117 min,Drama
+s84,Movie,Finch,United States,November 5 2021,2021,PG-13,115 min,Sci-Fi
+s85,Movie,tick tick BOOM,United States,November 19 2021,2021,PG-13,115 min,Drama
+s86,Movie,The Harder They Fall,United States,October 22 2021,2021,R,139 min,Western
+s87,TV Show,Arcane,United States,November 6 2021,2021,TV-14,1 Season,Animation
+s88,Movie,Munich The Edge of War,United Kingdom,January 21 2022,2022,PG-13,128 min,Drama
+s89,TV Show,Stay Close,United Kingdom,December 31 2021,2021,TV-MA,1 Season,Thriller
+s90,Movie,The Unforgivable,United States,December 10 2021,2021,R,112 min,Drama
+s91,TV Show,Emily in Paris,France,December 22 2021,2021,TV-MA,4 Seasons,Romance
+s92,Movie,Sing 2,United States,December 22 2021,2021,PG,110 min,Animation
+s93,TV Show,Ozark,United States,January 21 2022,2022,TV-MA,4 Seasons,Crime
+s94,Movie,The Lost Daughter,United States,December 31 2021,2021,R,121 min,Drama
+s95,Movie,After We Fell,United States,September 1 2021,2021,R,99 min,Romance
+s96,TV Show,Vikings Valhalla,United Kingdom,February 25 2022,2022,TV-MA,2 Seasons,Drama
+s97,Movie,Home Team,United States,January 28 2022,2022,PG,96 min,Comedy
+s98,TV Show,The Cuphead Show,United States,February 18 2022,2022,TV-Y7,1 Season,Animation
+s99,Movie,Bigbug,France,February 11 2022,2022,TV-MA,101 min,Sci-Fi
+s100,TV Show,Inventing Anna,United States,February 11 2022,2022,TV-MA,1 Season,Drama
