@@ -1,0 +1,6 @@
+nom,age,salaire,genre,ville_Inconnu,ville_Lyon,ville_Marseille,ville_Paris
+Alice,0.0,0.08,0,False,False,False,True
+Bob,0.39,0.71,1,False,True,False,False
+David,0.18,0.0,1,True,False,False,False
+Emma,0.39,1.0,0,False,True,False,False
+Frank,1.0,0.4,1,False,False,True,False
